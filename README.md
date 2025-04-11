@@ -5,6 +5,7 @@ A simple and interactive web-based quiz application built using HTML, CSS, and J
 This project displays multiple-choice questions related to web development and evaluates the user's knowledge in real-time with a clean and responsive UI.
 
 🚀 Features
+
 ✅ 10 curated questions on web development fundamentals (HTML, CSS, JS, API, DOM, etc.)
 
 ✅ Score counter updates live after each correct answer
@@ -29,6 +30,7 @@ JavaScript for game logic and DOM manipulation.
 bash
 Copy
 Edit
+
 📁 Quiz-App/
 ├── index.html      # Main HTML file.
 ├── style.css       # Styling for layout and feedback.
@@ -59,4 +61,5 @@ DOM & API Concepts
 Web Protocols (HTTP)
 
 🙌 Contributing
+
 Want to add more questions, improve UI, or expand features (like timers, scoreboards)? Pull requests are welcome!
