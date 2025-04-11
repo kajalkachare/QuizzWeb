@@ -1,4 +1,4 @@
-📚 Web Development Quiz App
+📚 Web Development Quiz App :
 A simple and interactive web-based quiz application built using HTML, CSS, and JavaScript. 
 This project displays multiple-choice questions related to web development and evaluates the user's knowledge in real-time with a clean and responsive UI.
 
@@ -10,23 +10,23 @@ This project displays multiple-choice questions related to web development and e
 ✅ Fully responsive and styled using custom CSS
 
 🛠️ Technologies Used
-HTML5 for structuring the quiz interface
-CSS3 for styling and responsive design
-JavaScript for game logic and DOM manipulation
+HTML5 for structuring the quiz interface.
+CSS3 for styling and responsive design.
+JavaScript for game logic and DOM manipulation.
 
 📂 Project Structure
 bash
 Copy
 Edit
 📁 Quiz-App/
-├── index.html      # Main HTML file
-├── style.css       # Styling for layout and feedback
-└── script.js       # Game logic and interactivity
+├── index.html      # Main HTML file.
+├── style.css       # Styling for layout and feedback.
+└── script.js       # Game logic and interactivity.
 
 👇 How to Run
-Clone or download this repository
-Open index.html in any modern web browser
-Click Start to begin the quiz
+Clone or download this repository.
+Open index.html in any modern web browser.
+Click Start to begin the quiz.
 
 Answer each question and view your score at the bottom
 🧠 Sample Topics Covered
